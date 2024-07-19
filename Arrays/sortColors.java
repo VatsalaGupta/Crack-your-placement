@@ -1,13 +1,15 @@
-import java.util.*;
+package Arrays;
+
+import java.util.Arrays;
 
 public class sortColors {
     public static void main(String args[]){
         int nums[] = {2,0,2,1,1,0};
-        sortColos(nums);
+        sortColors(nums);
         System.out.println(Arrays.toString(nums));
     }
 
-    public static void sortColos(int[] nums) {
+    public static void sortColors(int[] nums) {
         int n = nums.length;
         int i = 0; // mid
         int j = 0; // low
@@ -33,4 +35,3 @@ public class sortColors {
         nums[j] = temp;
     }
 }
-//sort colors
