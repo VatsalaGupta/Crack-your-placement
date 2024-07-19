@@ -6,6 +6,9 @@
  Problem 2: Sort the colors
 
  <h5>Day2</h5>
+Problem 3:Remove Duplicates from Sorted Array
+
+ <h5>Day2</h5>
 Problem 3:Move Zeros
 Problem 4:Remove duplicate from sorted arrays
 Problem 5:Best time to buy and sell stock
