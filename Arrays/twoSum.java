@@ -8,7 +8,7 @@ public class twoSum {
         int[] nums = {2, 7, 11, 15};
         int target = 9;
 
-        int[] result = twoSum(nums, target);
+        int[] result = twoSm(nums, target);
         if (result.length == 2) {
             System.out.println("Indices: " + result[0] + ", " + result[1]);
         } else {
@@ -16,7 +16,7 @@ public class twoSum {
         }
     }
 
-    public static int[] twoSum(int[] nums, int target) {
+    public static int[] twoSm(int[] nums, int target) {
         Map<Integer, Integer> hm = new HashMap<>();
         int n = nums.length;
         for (int i = 0; i < n; i++) {
