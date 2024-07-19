@@ -33,3 +33,4 @@ public class sortColors {
         nums[j] = temp;
     }
 }
+//sort colors
