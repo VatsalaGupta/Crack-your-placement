@@ -5,11 +5,11 @@ import java.util.Arrays;
 public class sortColors {
     public static void main(String args[]){
         int nums[] = {2,0,2,1,1,0};
-        sortColors(nums);
+        sortColours(nums);
         System.out.println(Arrays.toString(nums));
     }
 
-    public static void sortColors(int[] nums) {
+    public static void sortColours(int[] nums) {
         int n = nums.length;
         int i = 0; // mid
         int j = 0; // low
