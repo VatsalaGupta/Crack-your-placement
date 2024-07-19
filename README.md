@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>CrackYourInternship</h1>
 <h3>Progress Tracker</h3>
 <h5>Day1</h5>
@@ -14,3 +15,6 @@ Problem 7:Two sum
 Problem 8:Three Sum
 Problem 9:
 Problem 10:
+=======
+
+>>>>>>> 06cb1b116e6f2dfb6020c01a875bbf86de4b8217
