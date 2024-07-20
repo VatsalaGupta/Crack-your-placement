@@ -22,8 +22,9 @@ Problem 11:Find all duplicates in an array <br>
 Problem 12:Container With Most Water <br>
 Problem 13:Four Sum<br>
 Problem 14:Maximum Points You can obtain from cards<br>
-Problem 15:<br>
-Problem 16:<br>
-Problem 17:<br>
+Problem 15:Majority Element<br>
+Problem 16:Subarray sum equals to k<br>
+Problem 17:Spiral Matrix<br>
+Problem 18:Word Search<br>
 
 
