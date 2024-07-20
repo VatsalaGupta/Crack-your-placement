@@ -16,14 +16,14 @@ Problem 7:Two sum <br>
 Problem 8:Three Sum<br>
 
 <h6>Day3</h6>
-Problem 9:Best Time to Buy And Sell Stock II
-Problem 10:subarray Sum Divisible By K
-Problem 11:Find all duplicates in an array
-Problem 12:
-Problem 13:
-Problem 14:
-Problem 15:
-Problem 16:
-Problem 17:
+Problem 9:Best Time to Buy And Sell Stock II <br>
+Problem 10:subarray Sum Divisible By K <br>
+Problem 11:Find all duplicates in an array <br>
+Problem 12:Container With Most Water <br>
+Problem 13:Four Sum<br>
+Problem 14:Maximum Points You can obtain from cards<br>
+Problem 15:<br>
+Problem 16:<br>
+Problem 17:<br>
 
 
