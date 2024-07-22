@@ -44,11 +44,11 @@ Problem 31:Remove Duplicates from Sorted List<br>
 
 <h5>Day5</h5>
 Problem 32:Remove Linked List Elements<br>
-Problem 33:<br>
-Problem 34:<br>
-Problem 35:<br>
-Problem 36:<br>
-Problem 37:<br>
-Problem 38:<br>
+Problem 33:Merge Two Sorted Lists<br>
+Problem 34:Multiply two linked lists<br>
+Problem 35:Intersection of Two Linked Lists<br>
+Problem 36:Delete nodes having greater value on right<br>
+Problem 37:Palindrome Linked List<br>
+Problem 38:Reverse Linked List<br>
 
 
