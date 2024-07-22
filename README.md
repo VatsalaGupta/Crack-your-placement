@@ -42,4 +42,13 @@ Problem 29:LinkedList Cycle<br>
 Problem 30:Convert Binary Number in a Linked List to Integer<br>
 Problem 31:Remove Duplicates from Sorted List<br>
 
+<h5>Day5</h5>
+Problem 32:Remove Linked List Elements<br>
+Problem 33:<br>
+Problem 34:<br>
+Problem 35:<br>
+Problem 36:<br>
+Problem 37:<br>
+Problem 38:<br>
+
 
