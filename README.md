@@ -54,9 +54,9 @@ Problem 38:Reverse Linked List<br>
 <h5>Day6</h5>
 Problem 39:Add two numbers<br>
 Problem 40:Copy List with Random Pointer<br>
-Problem 41:br>
-Problem 42:br>
-Problem 43:br>
+Problem 41:Reverse Linked List II<br>
+Problem 42:Reorder list<br>
+Problem 43:Remove Nth Node From End of List<br>
 Problem 44:br>
 Problem 45:br>
 
