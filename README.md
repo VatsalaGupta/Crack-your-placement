@@ -51,4 +51,14 @@ Problem 36:Delete nodes having greater value on right<br>
 Problem 37:Palindrome Linked List<br>
 Problem 38:Reverse Linked List<br>
 
+<h5>Day6</h5>
+Problem 39:Add two numbers<br>
+Problem 40:Copy List with Random Pointer<br>
+Problem 41:br>
+Problem 42:br>
+Problem 43:br>
+Problem 44:br>
+Problem 45:br>
+
+
 
