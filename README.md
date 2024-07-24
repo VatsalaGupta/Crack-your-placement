@@ -63,12 +63,12 @@ Problem 46:Count of Smaller Numbers After Self<br>
 Problem 47:Count of Range Sum<br>
 
 <h5>Day7</h5>
-Problem 48:
-Problem 49:
-Problem 50:
-Problem 51:
-Problem 52:
-Problem 53:
+Problem 48:Combination Sum II<br>
+Problem 49:Combinations<br>
+Problem 50:Subsets II<br>
+Problem 51:M-Coloring Problem<br>
+Problem 52:Beautiful Arrangement<br>
+Problem 53:Palindrome Partitioning<br>
 
 
 
