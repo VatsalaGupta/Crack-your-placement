@@ -57,8 +57,18 @@ Problem 40:Copy List with Random Pointer<br>
 Problem 41:Reverse Linked List II<br>
 Problem 42:Reorder list<br>
 Problem 43:Remove Nth Node From End of List<br>
-Problem 44:br>
-Problem 45:br>
+Problem 44:Range Sum Query - Immutable<br>
+Problem 45:Range Sum Query - Mutable<br>
+Problem 46:Count of Smaller Numbers After Self<br>
+Problem 47:Count of Range Sum<br>
+
+<h5>Day7</h5>
+Problem 48:
+Problem 49:
+Problem 50:
+Problem 51:
+Problem 52:
+Problem 53:
 
 
 
