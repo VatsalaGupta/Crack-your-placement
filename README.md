@@ -70,5 +70,14 @@ Problem 51:M-Coloring Problem<br>
 Problem 52:Beautiful Arrangement<br>
 Problem 53:Palindrome Partitioning<br>
 
+<h5>Day8</h5>
+Problem 54:Permutations II<br>
+Problem 55:Subsets<br>
+Problem 56:N Queens<br>
+Problem 57:Suduko Solver<br>
+Problem 58:Unique Path III<br>
+Problem 59:Largest Number in K swaps<br>
+Problem 60:Parition array to k subsets<br>
+
 
 
