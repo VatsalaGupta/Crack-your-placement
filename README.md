@@ -88,9 +88,13 @@ Problem 65:Gas Station<br>
 Problem 66:Minimum cost for acquiring all coins with k extra coins allowed with every coin<br>
 
 <h5>Day10</h5>
-Problem 67:
-Problem 68:
-Problem 69:
+Problem 67:Restore the Array From Adjacent Pairs<br>
+Problem 68:Task Scheduler<br>
+Problem 69: Minimum Deletions to Make Character Frequencies Unique<br>
+Problem 70:Remove K Digits<br>
+Problem 71:CHOCOLA - Chocolate<br>
+Problem 72:Non-overlapping Intervals<br>
+Problem 73:Minimum Time to Make Rope Colorful<br>
 
 
 
