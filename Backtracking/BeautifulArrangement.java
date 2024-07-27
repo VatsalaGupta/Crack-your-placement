@@ -1,4 +1,4 @@
-package Backtracking;
+
 
 public class BeautifulArrangement {
     int res = 0;
