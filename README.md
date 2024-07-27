@@ -80,7 +80,17 @@ Problem 59:Largest Number in K swaps<br>
 Problem 60:Parition array to k subsets<br>
 
 <h5>Day9</h5>
-Problem 61:
+Problem 61:Tug of war<br>
+Problem 62:Find paths from corner cell to middle cell in maze<br>
+Problem 63:Solving Cryptarithmetic puzzle<br>
+Problem 64:Find all possible palindromic partitions of a String<br>
+Problem 65:Gas Station<br>
+Problem 66:Minimum cost for acquiring all coins with k extra coins allowed with every coin<br>
+
+<h5>Day10</h5>
+Problem 67:
+Problem 68:
+Problem 69:
 
 
 
