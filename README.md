@@ -96,5 +96,13 @@ Problem 71:CHOCOLA - Chocolate<br>
 Problem 72:Non-overlapping Intervals<br>
 Problem 73:Minimum Time to Make Rope Colorful<br>
 
+<h5>Day11</h5>
+Problem 74:Longest Repeating Character Replacement<br>
+Problem 75:Maximum Number of Visible Points<br>
+Problem 76:Climbing Stairs<br>
+Problem 77:
+Problem 78:
+Problem 79:
+
 
 
