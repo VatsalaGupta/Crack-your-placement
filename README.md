@@ -100,9 +100,10 @@ Problem 73:Minimum Time to Make Rope Colorful<br>
 Problem 74:Longest Repeating Character Replacement<br>
 Problem 75:Maximum Number of Visible Points<br>
 Problem 76:Climbing Stairs<br>
-Problem 77:
-Problem 78:
-Problem 79:
+Problem 77:Maximum Product Subarray<br>
+Problem 78:Ones and Zeroes<br>
+Problem 79:Counting Bits<br>
+Problem 80:Knight Dialer<br>
 
 
 
