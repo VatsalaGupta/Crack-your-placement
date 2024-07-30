@@ -118,8 +118,8 @@ Problem 87:Longest Increasing Subsequence<br>
 Problem 88:Longest Common Substring<br>
 Problem 89:Count Square Submatrices with All Ones<br>
 Problem 90:Maximal Square<br>
-Problem 91:
-Problem 92:
+Problem 91:Mobile numeric keypad<br>
+Problem 92:Job Sequencing Problem<br>
 Problem 93:
 Problem 94:
 
