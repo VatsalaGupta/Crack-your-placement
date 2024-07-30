@@ -120,6 +120,6 @@ Problem 89:Count Square Submatrices with All Ones<br>
 Problem 90:Maximal Square<br>
 Problem 91:Mobile numeric keypad<br>
 Problem 92:Job Sequencing Problem<br>
-Problem 93:
-Problem 94:
+Problem 93:Delete and Earn<br>
+Problem 94:Range Sum Query 2D - Immutable<br>
 
