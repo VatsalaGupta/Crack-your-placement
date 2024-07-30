@@ -112,3 +112,14 @@ Problem 83:Minimum Path Sum<br>
 Problem 84:Coin Change<br>
 Problem 85:Decode Ways<br>
 Problem 86:Maximum Length of Repeated Subarray<br>
+
+<h5>Day13</h5>
+Problem 87:Longest Increasing Subsequence<br>
+Problem 88:
+Problem 89:
+Problem 90:
+Problem 91:
+Problem 92:
+Problem 93:
+Problem 94:
+
