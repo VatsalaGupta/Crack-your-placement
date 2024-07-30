@@ -110,5 +110,5 @@ Problem 81:Maximize The Cut Segments<br>
 Problem 82:Unique Paths<br>
 Problem 83:Minimum Path Sum<br>
 Problem 84:Coin Change<br>
-Problem 85:
-Problem 86:
+Problem 85:Decode Ways<br>
+Problem 86:Maximum Length of Repeated Subarray<br>
