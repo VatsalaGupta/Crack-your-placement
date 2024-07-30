@@ -115,8 +115,8 @@ Problem 86:Maximum Length of Repeated Subarray<br>
 
 <h5>Day13</h5>
 Problem 87:Longest Increasing Subsequence<br>
-Problem 88:
-Problem 89:
+Problem 88:Longest Common Substring<br>
+Problem 89:Count Square Submatrices with All Ones<br>
 Problem 90:
 Problem 91:
 Problem 92:
