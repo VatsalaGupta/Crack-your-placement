@@ -106,6 +106,9 @@ Problem 79:Counting Bits<br>
 Problem 80:Knight Dialer<br>
 
 <h5>Day12</h5>
-
-
-
+Problem 81:Maximize The Cut Segments<br>
+Problem 82:
+Problem 83:
+Problem 84:
+Problem 85:
+Problem 86:
