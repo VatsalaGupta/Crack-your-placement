@@ -107,8 +107,8 @@ Problem 80:Knight Dialer<br>
 
 <h5>Day12</h5>
 Problem 81:Maximize The Cut Segments<br>
-Problem 82:
-Problem 83:
-Problem 84:
+Problem 82:Unique Paths<br>
+Problem 83:Minimum Path Sum<br>
+Problem 84:Coin Change<br>
 Problem 85:
 Problem 86:
