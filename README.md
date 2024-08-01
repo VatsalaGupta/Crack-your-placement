@@ -126,11 +126,11 @@ Problem 94:Range Sum Query 2D - Immutable<br>
 <h5>Day14</h5>
 Problem 95:Optimal search tree<br>
 Problem 96:Frog Jump<br>
-Problem 97:
-Problem 98:
-Problem 99:
-Problem 100:
-Problem 101:
-Problem 102:
+Problem 97:Best Time to Buy and Sell Stock IV<br>
+Problem 98:Minimum Insertion Steps to Make a String Palindrome<br>
+Problem 99:Largest area rectangular sub-matrix with equal number of 1’s and 0’s<br>
+Problem 100:Trapping Rain Water<br>
+Problem 101:Minimum Cost to Merge Stones<br>
+Problem 102:Count Different Palindromic Subsequences<br>
 
 <h5>Day15</h5>
