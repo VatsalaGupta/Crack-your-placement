@@ -136,8 +136,8 @@ Problem 102:Count Different Palindromic Subsequences<br>
 <h5>Day15</h5>
 Problem 103:Maximal Rectangle<br>
 Problem 104:Burst Balloons<br>
-Problem 105:
-Problem 106:
+Problem 105:Super Egg Drop<br>
+Problem 106:Partition Equal Subset Sum<br>
 Problem 107:
 Problem 108:
 Problem 109:
