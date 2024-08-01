@@ -124,4 +124,13 @@ Problem 93:Delete and Earn<br>
 Problem 94:Range Sum Query 2D - Immutable<br>
 
 <h5>Day14</h5>
+Problem 95:Optimal search tree<br>
+Problem 96:Frog Jump<br>
+Problem 97:
+Problem 98:
+Problem 99:
+Problem 100:
+Problem 101:
+Problem 102:
 
+<h5>Day15</h5>
