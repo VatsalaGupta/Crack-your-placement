@@ -148,6 +148,6 @@ Problem 111:Kth Smallest Element in a Sorted Matrix<br>
 Problem 112:Reorganize String<br>
 Problem 113:Find the Most Competitive Subsequence<br>
 Problem 114:Largest subarray with 0 sum<br>
-Problem 115:
-Problem 116:
-Problem 117:
+Problem 115:K Closest Points to Origin<br>
+Problem 116:Minimum Number of Refueling Stops<br>
+Problem 117:Minimum Cost to Hire K Workers<br>
