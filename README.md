@@ -155,8 +155,8 @@ Problem 117:Minimum Cost to Hire K Workers<br>
 <h5>Day17</h5>
 Problem 118:Swim in Rising Water<br>
 Problem 119:Sliding Window Maximum<br>
-Problem 120:
-Problem 121:
-Problem 122:
-Problem 123:
+Problem 120: Design Add and Search Words Data Structure<br>
+Problem 121:Word Break (Trie)<br>
+Problem 122:Implement Trie (Prefix Tree)<br>
+Problem 123:Palindrome Pairs<br>
 Problem 124:

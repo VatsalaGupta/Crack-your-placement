@@ -1,7 +1,7 @@
 
 import java.util.*;
  
-class GFG {
+class Largest {
  
     // This function basically finds largest 0
     // sum subarray in arr[0..n-1]. If 0 sum
