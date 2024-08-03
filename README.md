@@ -146,8 +146,8 @@ Problem 110:Furthest Building You Can Reach<br>
 <h5>Day16</h5>
 Problem 111:Kth Smallest Element in a Sorted Matrix<br>
 Problem 112:Reorganize String<br>
-Problem 113:
-Problem 114:
+Problem 113:Find the Most Competitive Subsequence<br>
+Problem 114:Largest subarray with 0 sum<br>
 Problem 115:
 Problem 116:
 Problem 117:
