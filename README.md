@@ -167,6 +167,6 @@ Problem 126:Minimize Cash Flow among a given set of friends who have borrowed mo
 Problem 127:Word Ladder<br>
 Problem 128:Total number of Spanning Trees in a Graph<br>
 Problem 129:Travelling Salesman Problem using Dynamic Programming<br>
-Problem 130:
-Problem 131:
-Problem 132:
+Problem 130:Water Jug problem using BFS<br>
+Problem 131:Critical Connections in a Network<br>
+Problem 132:Alien Dictionary<br>
