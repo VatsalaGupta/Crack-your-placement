@@ -164,9 +164,9 @@ Problem 124:Phone directory<br>
 <h5>Day18</h5>
 Problem 125:Redundant Connection<br>
 Problem 126:Minimize Cash Flow among a given set of friends who have borrowed money from each other<br>
-Problem 127:
-Problem 128:
-Problem 129:
+Problem 127:Word Ladder<br>
+Problem 128:Total number of Spanning Trees in a Graph<br>
+Problem 129:Travelling Salesman Problem using Dynamic Programming<br>
 Problem 130:
 Problem 131:
 Problem 132:
