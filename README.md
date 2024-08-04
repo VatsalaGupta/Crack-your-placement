@@ -160,3 +160,13 @@ Problem 121:Word Break (Trie)<br>
 Problem 122:Implement Trie (Prefix Tree)<br>
 Problem 123:Palindrome Pairs<br>
 Problem 124:Phone directory<br>
+
+<h5>Day18</h5>
+Problem 125:Redundant Connection<br>
+Problem 126:Minimize Cash Flow among a given set of friends who have borrowed money from each other<br>
+Problem 127:
+Problem 128:
+Problem 129:
+Problem 130:
+Problem 131:
+Problem 132:
