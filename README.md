@@ -172,10 +172,12 @@ Problem 131:Critical Connections in a Network<br>
 Problem 132:Alien Dictionary<br>
 
 <h5>Day19</h5>
-Problem
-Problem
-Problem
-Problem
-Problem
-Problem
-Problem
+Problem 133:BFS of graph<br>
+Problem 134:DFS of Graph<br>
+Problem 135:Number of Islands<br>
+Problem 136:Flood Fill<br>
+Problem 137:Rat in a Maze Problem - I<br>
+Problem 138:Undirected Graph Cycle<br>
+Problem 140:Directed Graph Cycle<br>
+Problem 141:Steps by Knight
+
