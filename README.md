@@ -181,3 +181,14 @@ Problem 138:Undirected Graph Cycle<br>
 Problem 140:Directed Graph Cycle<br>
 Problem 141:Steps by Knight
 
+<h5>Day20</h5>
+Problem 142:Decode String<br>
+Problem 143:Shortest Bridge<br>
+Problem 144:Number of Operations to Make Network Connected<br>
+Problem 145:Find Eventual Safe States<br>
+Problem 146:Strongly Connected Components (Kosaraju's Algo)<br>
+Problem 147:Time Needed to Inform All Employees<br>
+
+
+
+
