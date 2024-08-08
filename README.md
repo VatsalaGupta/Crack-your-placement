@@ -189,6 +189,16 @@ Problem 145:Find Eventual Safe States<br>
 Problem 146:Strongly Connected Components (Kosaraju's Algo)<br>
 Problem 147:Time Needed to Inform All Employees<br>
 
+<h5>Day21</h5>
+Problem 148:Introduction to Graph Coloring<br>
+Problem 149:Most Stones Removed with Same Row or Column<br>
+Problem 150:As Far from Land as Possible<br>
+Problem 151:Find the City With the Smallest Number of Neighbors at a Threshold Distance<br>
+Problem 152:Prerequisite Tasks<br>
+Problem 153:Minimum Spanning Tree<br>
+Problem 154:Floyd Warshall<br>
+
+
 
 
 
