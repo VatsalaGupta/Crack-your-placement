@@ -199,12 +199,15 @@ Problem 153:Minimum Spanning Tree<br>
 Problem 154:Floyd Warshall<br>
 
 <h5>Day22</h5>
-Problem 155:
-Problem 156:
-Problem 157:
-Problem 158:
-Problem 159:
-Problem 160:
+Problem 155:Evaluate Division<br>
+Problem 156:Snakes and Ladders<br>
+Problem 157:Topological sort<br>
+Problem 158:Cheapest Flights Within K Stops<br>
+Problem 159:Detect a negative cycle in a Graph | (Bellman Ford)<br>
+Problem 160:Bipartite Graph<br>
+Problem 161: Longest Increasing Path in a Matrix<br>
+Problem 162:Making A Large Island<br>
+Problem 163: Remove Boxes<br>
 
 
 
